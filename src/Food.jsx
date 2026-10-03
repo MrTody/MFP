@@ -6,7 +6,7 @@ function Food() {
 
 
     return( 
-        <ul>
+        <ul class="food-list">
             <li>{food1}</li>
             <li>{food2}</li>
             <li>{food3}</li>
