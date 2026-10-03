@@ -1,7 +1,7 @@
 function Food() {
     
     const food1 = "Burger";
-    const food2 = "Pizza";
+    const food2 = "Pizzas";
     const food3 = "Noodles";
 
 
