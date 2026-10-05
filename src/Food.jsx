@@ -10,6 +10,7 @@ function Food() {
             <li>{food1}</li>
             <li>{food2}</li>
             <li>{food3}</li>
+            <hr></hr>
         </ul>
     );
 }
