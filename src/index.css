@@ -4,7 +4,7 @@ body{
 }
 
 #root{
-    background: lightblue;
+    background: rgb(165, 208, 223);
 }
 
 @media (max-width: 600px) {
